@@ -1,0 +1,2 @@
+module Samoglaska {
+}
